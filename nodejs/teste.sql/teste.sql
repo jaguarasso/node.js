@@ -1,0 +1,1 @@
+update usuarios set nome = "bilodas" where nome ="thiago bassete";
