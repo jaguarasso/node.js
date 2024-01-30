@@ -36,6 +36,7 @@ const Post = require('./models/Post')
     })
 
 
+//adicionando os dados no mysql
 
     app.post('/add', function(req,res){
         
